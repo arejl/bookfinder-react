@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.App-content{
+  padding:30px;
+}
+
+.control_bar{
+  padding-bottom: 20px;
+}
